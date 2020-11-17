@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Merriweather';
+    src: url('Merriweather-LightIt.eot');
+    src: url('Merriweather-LightIt.eot?#iefix') format('embedded-opentype'),
+        url('Merriweather-LightIt.woff2') format('woff2'),
+        url('Merriweather-LightIt.woff') format('woff'),
+        url('Merriweather-LightIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
